@@ -1,0 +1,57 @@
+1. Fiction vs Non-Fiction Pricing
+
+The project compares average prices between Fiction and Non-Fiction books to understand category pricing trends.
+
+Insight:
+
+Non-Fiction books generally tend to have higher prices due to educational and informational value.
+
+2. Customer Engagement Analysis
+
+Review counts were used as a proxy for customer engagement.
+
+Insight:
+
+Books with massive review counts usually indicate:
+
+Higher popularity
+Better market reach
+Strong customer trust
+3. Publisher Performance
+
+Publisher-level analysis identified which publishers:
+
+Produce the most bestselling books
+Receive the highest customer reviews
+Maintain high ratings
+Insight:
+
+A small number of publishers dominate bestseller categories consistently.
+
+4. Pricing vs Ratings
+
+The project investigates whether expensive books are highly rated.
+
+Insight:
+
+Higher pricing does not always guarantee higher ratings.
+Affordable books can also achieve excellent customer satisfaction.
+
+5. Bestseller Longevity
+
+Weeks on bestseller list were analyzed to identify long-term successful books.
+
+Insight:
+
+Books with longer bestseller durations likely have:
+
+Strong word-of-mouth marketing
+Consistent demand
+High reader retention
+6. Category Dominance
+
+The project identifies which categories attract maximum reviews and engagement.
+
+Insight:
+
+Popular categories tend to dominate both reviews and sales visibility.
