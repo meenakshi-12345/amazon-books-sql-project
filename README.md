@@ -1,3 +1,11 @@
+
+<img width="400" height="135" alt="amazon" src="https://github.com/user-attachments/assets/4abb0768-3f2e-4982-a9cb-27d2713a6efb" />
+
+
+
+
+
+
 Amazon Books Data Analysis using SQL
 
 A beginner-to-intermediate SQL practice project based on an Amazon Books dataset downloaded from Kaggle.
